@@ -1,3 +1,3 @@
 # Algorithms-Specialization-Coursera-Stanford-
-  Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms
-  Course 2: Graph Search, Shortest Paths, and Data Structures
+  1.  Course: Divide and Conquer, Sorting and Searching, and Randomized Algorithms
+  2.  Course: Graph Search, Shortest Paths, and Data Structures
